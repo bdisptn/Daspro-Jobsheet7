@@ -61,8 +61,6 @@ public class BioskopWithScanner07 {
                     System.out.println("Menu tidak valid! Silakan pilih 1-3.");
                     
             }
-
-        }
-       
+        }  
     }
 }
